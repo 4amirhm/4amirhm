@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Amir H Mousavian!
 
-I'm a Data Science student with a passion for Data, Ai and Robotics. My expertise lies in (Python,Jupyter, Machine Learning, Analysis, Data Visualization) , and I have a knack for Analytical and Critical thinking and also I'm a fast learner . Currently Leanring Data Science.
+I'm a Data Scientist student with a passion for Data, Ai and Robotics. My expertise lies in (Python,Jupyter, Machine Learning, Analysis, Data Visualization) , and I have a knack for Analytical and Critical thinking and also I'm a fast learner . Currently Leanring Data Science.
 
 Skills:
 
