@@ -67,7 +67,7 @@ Currently focused on:
 
 ### 🌐 Interests
 - Computer Vision  
-- Robotics & Automation  
+- IoT & Automation  
 - Music & Singing  
 - Psychology & Behavioral Science  
 - Books, Cinema, Painting
