@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Amir H. Mousavian
 
-I'm a **Computer Vision student** with a background in **data science and AI**, driven by a passion for using technology to solve real-world problems. I specialize in **image analysis, deep learning**, and full-stack deployment of CV models.
+I'm a **Computer Vision Engineer** with a background in **data science and AI**, driven by a passion for using technology to solve real-world problems. I specialize in **image analysis, deep learning**, and full-stack deployment of CV models.
 
 Currently focused on:
 - Building and deploying **CV applications**
@@ -13,7 +13,7 @@ Currently focused on:
 
 #### 🔧 Technical
 - **Languages**: Python, SQL
-- **Computer Vision**: OpenCV, YOLOv8, Roboflow, TensorFlow, PyTorch
+- **Computer Vision**: OpenCV, YOLO, Roboflow, TensorFlow, PyTorch
 - **Machine Learning**: Scikit-learn, XGBoost, classification & regression models
 - **Data Science Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Web & Dev Tools**: FastAPI, Docker, Git, Jupyter, Colab
@@ -31,7 +31,7 @@ Currently focused on:
 
 ### 💻 Tech Stack
 - **Languages**: Python
-- **CV & ML**: YOLOv8, OpenCV, PyTorch, TensorFlow, Scikit-learn
+- **CV & ML**: YOLO, OpenCV, PyTorch, TensorFlow, Scikit-learn
 - **Dev Tools**: Docker, FastAPI, Git, Linux
 - **Certifications**: 
   - IMT – Machine Learning & Deep Learning 
@@ -40,11 +40,19 @@ Currently focused on:
 ---
 
 ### 🌟 Featured Projects
+1. **[Ricd Detection Model](https://www.kaggle.com/code/amirhoseinmousavian/rice-detection-using-pytorch)**
+   Detecting Diffrent classes of rice with CNN arvhitavture and over 98% accuracy.
 
-2. **[University Ranking Analysis](https://github.com/4amirhm/university-ranking)**  
+2. **[Brain Tumor Detection](https://www.kaggle.com/code/amirhoseinmousavian/brain-tumor-detection-95)**
+   Detecting Brain Medcial images using custom CNN model and MobilenetV2 with over 95% accuracy.
+
+3. **[Viechle Detection| YOLO](https://www.kaggle.com/code/amirhoseinmousavian/vehicle-detection-yolo11)**
+   Detecting diffrent classes of viechles using YOLO11 for Traffic managment usages.
+   
+4. **[University Ranking Analysis](https://github.com/4amirhm/university-ranking)**  
    Analyzed and visualized global university rankings with insights on education trends.
 
-3. **[Market Analysis (NYA Index)](https://github.com/4amirhm/Market_Analysis)**  
+5. **[Market Analysis (NYA Index)](https://github.com/4amirhm/Market_Analysis)**  
    Performed data exploration and visualization of NYA stock market patterns.
 
 ---
